@@ -52,10 +52,10 @@ Durante o laboratório foram explorados os seguintes tópicos:
 ---
 
 ## 🖼️ Prints e Evidências
-As capturas de tela estão organizadas na pasta **/images** para registrar cada etapa:  
-- Criação da instância  
-- Configuração do Security Group  
-- Conexão SSH bem-sucedida  
+As capturas de tela estão no repositório para registrar cada etapa:  
+- Criação da instância - deixei foto da lista com as duas instancias, servidor01 e servidor02 
+- Configuração do Security Group  - coloquei uma foto das especificações dela
+- Conexão SSH bem-sucedida  - tem uma foto do moba mostrando o top.
 
 ---
 
